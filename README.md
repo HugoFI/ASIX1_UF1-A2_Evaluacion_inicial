@@ -17,6 +17,7 @@ Es un software diseñado para realizar tareas como la creación y edición de do
 5. Herramientas de Google:
 
 |**Aplicaciones**|**Visto**|
+|:---------------|:---|
 |Google Docs|✔️|
 |Google Slides|✔️|
 |Google Sheets|✔️|
