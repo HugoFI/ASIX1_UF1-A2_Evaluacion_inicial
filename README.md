@@ -7,14 +7,18 @@
 
 Lista ordenada
 1. ¿Qué es una página web?
-Es un documento electrónico que se encuentra en Internet y que puede contener información en forma de texto, imágenes, videos y otros elementos multimedia. 
+Es un documento electrónico que se encuentra en Internet y que puede contener información en forma de texto, imágenes, videos y otros elementos multimedia.
+
 2. ¿Qué es un sitio web?
 Un sitio web es un conjunto de páginas web relacionadas entre sí que comparten un dominio común. Puede incluir páginas de inicio, secciones de contenido, blogs, tiendas en línea, entre otros elementos, y se utiliza para representar una entidad, empresa, organización o individuo en Internet.
+
 3. ¿Qué es una aplicación web?
 Una aplicación web es un programa o aplicación informática que se ejecuta en un navegador web. Las aplicaciones web se acceden a través de Internet y no requieren una instalación previa.
+
 4. ¿Qué es una herramienta ofimática?
 Es un software diseñado para realizar tareas como la creación y edición de documentos de texto, hojas de cálculo, presentaciones, correos electrónicos y más. Estas herramientas pueden ser aplicaciones de escritorio o basadas en la web y se utilizan en entornos de trabajo, educación y uso personal.
-5. Herramientas de Google:
+
+5. [Esto es un enlace](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
 
 |**Aplicaciones**|**Visto**|
 |:---------------|:---|
