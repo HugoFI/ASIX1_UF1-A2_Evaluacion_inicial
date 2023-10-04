@@ -15,6 +15,7 @@ Una aplicación web es un programa o aplicación informática que se ejecuta en 
 4. ¿Qué es una herramienta ofimática?
 Es un software diseñado para realizar tareas como la creación y edición de documentos de texto, hojas de cálculo, presentaciones, correos electrónicos y más. Estas herramientas pueden ser aplicaciones de escritorio o basadas en la web y se utilizan en entornos de trabajo, educación y uso personal.
 5. Herramientas de Google:
+
 |**Aplicaciones**|**Visto**|
 |Google Docs|✔️|
 |Google Slides|✔️|
@@ -22,6 +23,7 @@ Es un software diseñado para realizar tareas como la creación y edición de do
 |Google Calendar|📅|
 |Google Meet|💻|
 |...|...|
+
 6. ¿Qué es ```HTML?
 HTML es un lenguaje de marcas utilizado para crear páginas web. Se utiliza para estructurar y organizar el contenido en una página, mediante etiquetas que describen los elementos como encabezados, párrafos, enlaces, imágenes, etc. También permite enlazar a otros recursos web como CSS y JavaScript para crear sitios web interactivos y atractivos.
 
