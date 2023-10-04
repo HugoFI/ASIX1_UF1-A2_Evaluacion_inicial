@@ -44,3 +44,4 @@ HTML es un lenguaje de marcas utilizado para crear páginas web. Se utiliza para
 CSS es un lenguaje que se utiliza para dar estilo y formato a las páginas web, controlando aspectos como el diseño, colores y fuentes. Ayuda a separar la presentación visual del contenido, lo que facilita el mantenimiento y la consistencia del diseño de un sitio web. Se utiliza mediante reglas que especifican cómo se verán los elementos HTML en la página.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![Esto es una imagen](https://github.com/HugoFI/ASIX1_UF1-A2_Evaluacion_inicial/blob/main/flujo-de-trabajo.png "Flujo de trabajo")
